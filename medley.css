@@ -1,0 +1,12 @@
+
+form {
+  position: relative;
+  left: 10px;
+  top: 10px;
+}
+
+text{
+  z-index: 100;
+  cursor: pointer;
+  background: red;
+}
